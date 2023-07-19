@@ -1,0 +1,39 @@
+<?php
+$number1 = 5;
+$number2 = 10;
+$carpim = $number1 * $number2;
+
+echo "Çarpım sonucu: " . $carpim;
+?>
+
+-----------------------------------------
+
+<?php
+$number1 = 20;
+$number2 = 5;
+$bolum = $number1 / $number2;
+
+echo "Bölüm sonucu: " . $bolum;
+?>
+
+-----------------------------------------
+
+<?php
+$number1 = 15;
+$number2 = 7;
+$toplam = $number1 + $number2;
+
+echo "Toplam sonucu: " . $toplam;
+?>
+
+-----------------------------------------
+
+<?php
+$number1 = 25;
+$number2 = 10;
+$fark = $number1 - $number2;
+
+echo "Fark sonucu: " . $fark;
+?>
+
+-----------------------------------------
